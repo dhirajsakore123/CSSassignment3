@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+
+.fir{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+    border: 10px solid red;
+    border-radius: 8px;
+    position: relative;
+    top: 5px;
+    left: 450px;
+    color: red;
+   
+
+}
+.box{
+   box-shadow: 8px  8px 0px purple ; 
+}
+.firsttext{
+    text-align: center;
+    font-size: 28px;
+   padding: 10px 124px;
+    line-height:50px ;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 3px 1px 0px purple;
+}
+hr{
+ position: relative;
+ top:20px;
+ 
+}
+.middle{
+    border: 10px solid green;
+    height: 800px;
+    margin-top: 40px;
+    
+    
+}
+.box1{
+    height: 300px;
+    width: 280px;
+    border: 10px solid red;
+    border-radius: 15px;
+    box-shadow: 8px  8px 0px purple ; 
+    background-color: white;
+}
+
+.boxfir{
+    float: left;
+    margin-bottom: 150px;
+   
+}
+.box2{
+    float: right;
+    position: relative;
+    right: 50px;
+  
+   
+   
+}
+.box3{
+    float: left;
+    clear: left;
+   
+  
+}
+
+.box4{
+    float: right;
+    position: relative;
+    right: 50px;
+}
+.box1text{
+    text-align: center;
+    font-size: 35px;
+    line-height:50px ;
+    font-weight: bold;
+    text-shadow: 3px 1px 0px purple;
+}
+.box2text{
+    text-align: center;
+  
+}
+.box3text{
+    text-align: left;
+
+    font-size: 30px;
+    line-height:30px ;
+    font-weight: bold;
+    text-shadow: 3px 1px 3px purple;
+    padding-right: 30px;
+}
+.last{
+    width: 700px;
+    height: 720px;
+    border: 10px solid purple;
+    position: relative;
+    top: 20px;
+    left: 350px;
+    background-color: green;
+    text-align: center;
+}
+h1{
+    padding: 20px;
+}
+.lastc{
+    width: 340px;
+    height: 300px;
+    border: 2px solid purple;
+    background: rgba(241, 241, 98, 0.995);
+}
+.last1{
+    float: left;
+}
+.last2{
+    float: right;
+}
+.last3{
+    clear: left;
+   width: 720px;
+   position: relative;
+   top: 17px;
+}
+
+.heading{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+.last1text{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    
+    padding: 30px 20px;
+}
+.offer{
+    width: 500px;
+    height: 80px;
+    border: 10px solid red;
+    background-color: rgb(151, 235, 16);
+    z-index:20;
+    position: fixed;
+    top: 550px;
+    left: 500px;
+    border-radius: 10px;
+
+}
+.offertext1{
+    width: 200px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    float: left;
+    padding: 20px;
+}
+.offertext2{
+    width: 150px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    float: right;
+   padding: 20px;
+   
+}
+.plz{
+    text-align: center;
+    font-size: 28px;
+
+}
+.rs{
+    font-size: 17px;
+    text-align: center;
+    margin-top: 20px;
+}
+.rate{
+   text-align: center;
+
+}
+button{
+    background-color: red;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+    
+
